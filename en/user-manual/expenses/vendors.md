@@ -6,7 +6,7 @@ Vendors section is located under **Expenses > Vendors**. On this page you can se
 The following details are displayed:
 
 - **Name**: Vendor's name.
-- **Email**: Vendor's email adress.
+- **Email**: Vendor's email address.
 - **Phone**: Vendor's phone number.
 - **Status**: Status of the vendor.
 - **Actions**: You can use this button to edit, duplicate, and delete the vendor.
@@ -18,7 +18,7 @@ The following details are displayed:
 The following fields are displayed as blank to be filled, some are required and some not. Those marked with red star are required.
 
 - **Name**: Vendor's full name.
-- **Email**: Vendor's email adress.
+- **Email**: Vendor's email address.
 - **Phone**: Vendor's phone number.
 - **Website**: Vendor's website.
 - **Address**: Vendor's address
