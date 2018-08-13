@@ -1,7 +1,7 @@
 Accrual vs Cash
 ===============
 
-Akaunting performs accounting on an accrual basis. Let's see what does it mean and why it's been choosen:
+Akaunting performs accounting on an accrual basis. Let's see what does it mean and why it's been chosen:
 
 ### Accrual accounting
 
