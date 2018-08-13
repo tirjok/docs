@@ -25,7 +25,7 @@ The following fields are displayed as blank to be filled, some are required and 
 - **Amount**: The amount of the transfer.
 - **Date**: Transfer date.
 - **Description**: Custom description for the transfer.
-- **Payment Method**: The method this transfer occured
+- **Payment Method**: The method this transfer occurred
 - **Reference**: Any possible reference.
 
 ![transfers form](_images/transfers_form.png)
