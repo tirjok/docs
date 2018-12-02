@@ -13,4 +13,4 @@ Invoice is a document sent to your customer that indicates the items sold by you
 
 ## Revenues
 
-Revenue is a non-invoicable and paid income. There are no items within the revenues. Tax is not applicable.
+Revenue is a non-invoiceable and paid income. There are no items within the revenues. Tax is not applicable.
